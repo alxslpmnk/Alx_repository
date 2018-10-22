@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\OOP_Lab_5-6-7\OOP_Lab_5-6-7\bin\Debug\OOP_Lab_5-6-7.exe.config
+C:\Users\User\source\repos\OOP_Lab_5-6-7\OOP_Lab_5-6-7\bin\Debug\OOP_Lab_5-6-7.exe
+C:\Users\User\source\repos\OOP_Lab_5-6-7\OOP_Lab_5-6-7\bin\Debug\OOP_Lab_5-6-7.pdb
+C:\Users\User\source\repos\OOP_Lab_5-6-7\OOP_Lab_5-6-7\obj\Debug\OOP_Lab_5-6-7.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\OOP_Lab_5-6-7\OOP_Lab_5-6-7\obj\Debug\OOP_Lab_5-6-7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP_Lab_5-6-7\OOP_Lab_5-6-7\obj\Debug\OOP_Lab_5-6-7.exe
+C:\Users\User\source\repos\OOP_Lab_5-6-7\OOP_Lab_5-6-7\obj\Debug\OOP_Lab_5-6-7.pdb

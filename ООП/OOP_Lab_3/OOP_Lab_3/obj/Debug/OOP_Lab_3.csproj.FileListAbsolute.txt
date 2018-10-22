@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\OOP_Lab_3\OOP_Lab_3\bin\Debug\OOP_Lab_3.exe.config
+C:\Users\User\source\repos\OOP_Lab_3\OOP_Lab_3\bin\Debug\OOP_Lab_3.exe
+C:\Users\User\source\repos\OOP_Lab_3\OOP_Lab_3\bin\Debug\OOP_Lab_3.pdb
+C:\Users\User\source\repos\OOP_Lab_3\OOP_Lab_3\obj\Debug\OOP_Lab_3.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\OOP_Lab_3\OOP_Lab_3\obj\Debug\OOP_Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP_Lab_3\OOP_Lab_3\obj\Debug\OOP_Lab_3.exe
+C:\Users\User\source\repos\OOP_Lab_3\OOP_Lab_3\obj\Debug\OOP_Lab_3.pdb

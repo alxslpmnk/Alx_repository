@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\OOP_Lab_2\OOP_Lab_2\bin\Debug\OOP_Lab_2.exe.config
+C:\Users\User\source\repos\OOP_Lab_2\OOP_Lab_2\bin\Debug\OOP_Lab_2.exe
+C:\Users\User\source\repos\OOP_Lab_2\OOP_Lab_2\bin\Debug\OOP_Lab_2.pdb
+C:\Users\User\source\repos\OOP_Lab_2\OOP_Lab_2\obj\Debug\OOP_Lab_2.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\OOP_Lab_2\OOP_Lab_2\obj\Debug\OOP_Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP_Lab_2\OOP_Lab_2\obj\Debug\OOP_Lab_2.exe
+C:\Users\User\source\repos\OOP_Lab_2\OOP_Lab_2\obj\Debug\OOP_Lab_2.pdb
+C:\Users\User\source\repos\OOP_Lab_2\OOP_Lab_2\bin\Debug\System.ValueTuple.dll
+C:\Users\User\source\repos\OOP_Lab_2\OOP_Lab_2\bin\Debug\System.ValueTuple.xml

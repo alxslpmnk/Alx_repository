@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\OOP_Lab_10\OOP_Lab_10\bin\Debug\OOP_Lab_10.exe.config
+C:\Users\User\source\repos\OOP_Lab_10\OOP_Lab_10\bin\Debug\OOP_Lab_10.exe
+C:\Users\User\source\repos\OOP_Lab_10\OOP_Lab_10\bin\Debug\OOP_Lab_10.pdb
+C:\Users\User\source\repos\OOP_Lab_10\OOP_Lab_10\obj\Debug\OOP_Lab_10.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\OOP_Lab_10\OOP_Lab_10\obj\Debug\OOP_Lab_10.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP_Lab_10\OOP_Lab_10\obj\Debug\OOP_Lab_10.exe
+C:\Users\User\source\repos\OOP_Lab_10\OOP_Lab_10\obj\Debug\OOP_Lab_10.pdb
