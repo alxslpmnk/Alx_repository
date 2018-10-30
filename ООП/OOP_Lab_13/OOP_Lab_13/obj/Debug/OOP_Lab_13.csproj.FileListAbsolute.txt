@@ -1,7 +1,0 @@
-c:\users\user\source\repos\OOP_Lab_13\OOP_Lab_13\bin\Debug\OOP_Lab_13.exe.config
-c:\users\user\source\repos\OOP_Lab_13\OOP_Lab_13\bin\Debug\OOP_Lab_13.exe
-c:\users\user\source\repos\OOP_Lab_13\OOP_Lab_13\bin\Debug\OOP_Lab_13.pdb
-c:\users\user\source\repos\OOP_Lab_13\OOP_Lab_13\obj\Debug\OOP_Lab_13.csprojResolveAssemblyReference.cache
-c:\users\user\source\repos\OOP_Lab_13\OOP_Lab_13\obj\Debug\OOP_Lab_13.csproj.CoreCompileInputs.cache
-c:\users\user\source\repos\OOP_Lab_13\OOP_Lab_13\obj\Debug\OOP_Lab_13.exe
-c:\users\user\source\repos\OOP_Lab_13\OOP_Lab_13\obj\Debug\OOP_Lab_13.pdb

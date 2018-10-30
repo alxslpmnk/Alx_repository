@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\OOP_Lab_4\OOP_Lab_4\bin\Debug\OOP_Lab_4.exe.config
-C:\Users\User\source\repos\OOP_Lab_4\OOP_Lab_4\bin\Debug\OOP_Lab_4.exe
-C:\Users\User\source\repos\OOP_Lab_4\OOP_Lab_4\bin\Debug\OOP_Lab_4.pdb
-C:\Users\User\source\repos\OOP_Lab_4\OOP_Lab_4\obj\Debug\OOP_Lab_4.csprojResolveAssemblyReference.cache
-C:\Users\User\source\repos\OOP_Lab_4\OOP_Lab_4\obj\Debug\OOP_Lab_4.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\OOP_Lab_4\OOP_Lab_4\obj\Debug\OOP_Lab_4.exe
-C:\Users\User\source\repos\OOP_Lab_4\OOP_Lab_4\obj\Debug\OOP_Lab_4.pdb
